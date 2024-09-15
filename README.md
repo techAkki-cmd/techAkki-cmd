@@ -33,10 +33,7 @@ Each project comes with its own set of instructions. For detailed usage, please 
 
 2. **[Job Portal Application](./job-portal)**:
    - Steps to set up the development environment, run the application, and navigate through its features.
-
-3. **[Project Name](./project-directory)**:
-   - Instructions for setup and usage.
-
+   - 
 ## Contributing
 
 We welcome contributions to all projects! If you would like to contribute, please refer to the specific contributing guidelines in each project's directory.
@@ -58,5 +55,5 @@ We welcome contributions to all projects! If you would like to contribute, pleas
 
 ## Contact
 
-For any questions or comments, please reach out to [Your Name](mailto:your.email@example.com).
+For any questions or comments, please reach out to [Arijit Ajay Kumar](kumararijit8672@gmail.com).
 
