@@ -34,14 +34,6 @@ Each project comes with its own set of instructions. For detailed usage, please 
 2. **[Job Portal Application](./job-portal)**:
    - Steps to set up the development environment, run the application, and navigate through its features.
    
-## Contributing
-
-We welcome contributions to all projects! If you would like to contribute, please refer to the specific contributing guidelines in each project's directory.
-
-1. **[Mortgage Calculation Project](./mortgage-calculation)**: Guidelines for contributing to the mortgage calculation project.
-2. **[Job Portal Application](./job-portal)**: Guidelines for contributing to the job portal application.
-3. **[Project Name](./project-directory)**: Guidelines for contributing to the third project.
-
 ## Acknowledgements
 
 - **Libraries and Tools**: 
