@@ -24,15 +24,6 @@ A web-based platform for job seekers and recruiters. Recruiters can post job lis
 
 - **Technologies**: Spring Boot, Hibernate, Spring MVC, Thymeleaf
 
-### 3. [Project Name](./project-directory)
-Brief description of the third project. Provide a summary of what it does and its main features.
-
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-
-- **Technologies**: List of technologies used
-
 ## Usage
 
 Each project comes with its own set of instructions. For detailed usage, please refer to the individual README files located in each project's directory.
