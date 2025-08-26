@@ -154,11 +154,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📊 Project Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=techAkki-cmd&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 ## 🏆 Achievements
 
