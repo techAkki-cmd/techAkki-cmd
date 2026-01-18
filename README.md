@@ -45,10 +45,9 @@ A product-style application that computes birth charts and generates personalize
 - 🗄️ Database-backed history and user profile persistence
 
 #### 🔧 Tech Stack
-Java · Spring Boot · REST APIs · MySQL · Docker · (Kafka if used) · Deployment (Railway/Cloud)
+Java · Spring Boot · REST APIs · MySQL · Docker  · Deployment (Railway/Cloud)
 
 > Repo: https://github.com/techAkki-cmd/cosmic-portal-horizon  <!-- update if different -->
-> Live: (Add your live link here)
 
 ---
 
@@ -65,10 +64,9 @@ A practical chatbot project designed to make a resume interactive—users can as
 - 🚀 Deployable app flow (API + UI if applicable)
 
 #### 🔧 Tech Stack
-(Your stack here) · Python/Node/Java (choose what you used) · Embeddings/RAG (if used) · API + UI (if used) · Deployment
+Java · Embeddings/RAG · API + UI· Deployment
 
 > Repo: https://github.com/techAkki-cmd/<your-resume-chatbot-repo>  <!-- update -->
-> Live: (Add link if deployed)
 
 ---
 
